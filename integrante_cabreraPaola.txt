@@ -1,1 +1,1 @@
-integrante_apellido.txt
+integrante_FriasYanina.txt
