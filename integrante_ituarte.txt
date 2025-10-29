@@ -1,0 +1,3 @@
+Nombre: Javier Ezequiel Ituarte
+Usuario: <tuUsuarioGitHub>
+Aporte: Archivo de integrante y edición de README
