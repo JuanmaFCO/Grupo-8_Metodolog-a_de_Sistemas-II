@@ -1,10 +1,9 @@
-# Grupo-8_Metodología_de_Sistemas-II
-Grupo 8 para la materia Metodología de Sistemas II
+# Grupo 8 - Metodología de Sistemas II
+## Integrantes y aportes
 
-“Integrantes y aportes”
+**Descripción:**  
+Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 
-Genez victor  cree mi rama y agregue mi informacion 
-
-Paola Cabrera -> generacion de archivo .txt
-
-
+### Integrantes:
+- **Ramirez (Líder):** Creó el repositorio y realizó el *merge*.
+- **Paola Cabrera** (`git: paoCabreraCursos`): Creación del archivo `.txt`.
