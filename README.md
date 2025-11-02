@@ -1,9 +1,9 @@
-# Grupo-8_Metodología_de_Sistemas-II
-“Integrantes y aportes"
+# Grupo 8 - Metodología de Sistemas II
+## Integrantes y aportes
 
-Grupo 8 para la materia Metodología de Sistemas II
- ramirez  Lider, cree repo y Merge
+**Descripción:**  
+Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 
-
-Paola Cabrera -> git : paoCabreraCursos
-Creacion de .txt 
+### Integrantes:
+- **Ramirez (Líder):** Creó el repositorio y realizó el *merge*.
+- **Paola Cabrera** (`git: paoCabreraCursos`): Creación del archivo `.txt`.
