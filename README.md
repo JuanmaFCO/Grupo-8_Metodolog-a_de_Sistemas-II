@@ -6,6 +6,7 @@ Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 
 ### Integrantes:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Carchedi Camila**Creación de un archivo txt
 - **Benitez Lourdes**Creación de un archivo txt
 - **Ramirez (Líder):** Creó el repositorio y realizó el *merge*.
@@ -27,3 +28,10 @@ Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 
 
 carchedi camila creacion de un archivo txt 
+=======
+- **Ramirez (Líder):** Creó el repositorio y realizó el *merge*.
+- **Paola Cabrera** (`git: paoCabreraCursos`): Creación del archivo `.txt`
+- **Benitez Lourdes** Creación de un archivo txt
+- **Frias Yanina** Creación de archivo txt
+- **Galloli Emmanuel** creacion de un archivo txt
+>>>>>>> a4e0af3924b76a23fcf96b4eab1ed37e3f7c009d
