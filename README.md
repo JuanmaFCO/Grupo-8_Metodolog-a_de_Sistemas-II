@@ -7,3 +7,5 @@ Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 ### Integrantes:
 - **Ramirez (Líder):** Creó el repositorio y realizó el *merge*.
 - **Paola Cabrera** (`git: paoCabreraCursos`): Creación del archivo `.txt`.
+- **Frias Yanina**: Creación de archivo txt
+
