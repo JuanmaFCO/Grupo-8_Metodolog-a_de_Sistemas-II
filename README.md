@@ -14,4 +14,4 @@ Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 - **Galloli Emmanuel, creacion de un archivo txt
 - **Genez Victor** Creación de archivo txt
 
-- Javier Ituarte (@TU_USUARIO): Creación del archivo javier_ituarte.txt
+- **Javier Ituarte** (`git: ezequielpazz`): Creación del archivo `javier_ituarte.txt`
