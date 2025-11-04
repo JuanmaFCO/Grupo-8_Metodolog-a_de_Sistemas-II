@@ -13,3 +13,4 @@ Proyecto del Grupo 8 para la materia *Metodología de Sistemas II*.
 - **Frias Yanina**: Creación de archivo txt
 - **Galloli Emmanuel, creacion de un archivo txt
 - **Genez Victor** Creación de archivo txt
+- **Perez Daniel** Creación de archivo txt
