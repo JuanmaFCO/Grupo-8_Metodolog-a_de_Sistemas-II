@@ -1,3 +1,3 @@
 ﻿Nombre: Ezequiel Ituarte
-Usuario GitHub: <tu-usuario>
-Descripción del aporte: rama ituarte; archivos y PR según consignas
+Usuario GitHub: ezequielpazz
+Descripción del aporte: rama ituarte; archivo de integrante; función y tests; PR a main
